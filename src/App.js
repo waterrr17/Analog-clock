@@ -1,8 +1,9 @@
+import ClockContainer from "./ClockContainer";
 
 
 function App() {
   return (
-    <div>App</div>
+    <ClockContainer />
   );
 }
 
